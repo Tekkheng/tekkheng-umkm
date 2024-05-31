@@ -9,7 +9,7 @@ const About = () => {
           data-aos="fade-down"
           data-aos-duration="600"
         >
-          Lorem ipsum dolor sit amet.
+          Food Enthusiasts and Culinary Artists
         </h3>
         <div className="row mt-5">
           <div

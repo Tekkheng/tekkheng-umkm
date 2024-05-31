@@ -27,18 +27,18 @@ const Carousel = () => {
       </div>
       <div className="carousel-inner">
         <CarouselChild
-          title="Lorem, ipsum."
-          content="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, fuga."
+          title="Dive into a World of Flavor!"
+          content="Explore our culinary creations crafted with passion and expertise. From tantalizing appetizers to mouthwatering mains, we're here to delight your taste buds"
           classCarousel="mycarousel"
         />
         <CarouselChild
-          title="Lorem2, ipsum2."
-          content="Lorem2 ipsum dolor sit amet, consectetur adipisicing elit. Iste, fuga."
+          title="Dive into a World of Flavor!"
+          content="Explore our culinary creations crafted with passion and expertise. From tantalizing appetizers to mouthwatering mains, we're here to delight your taste buds"
           classCarousel="mycarousel2"
         />
         <CarouselChild
-          title="Lorem3, ipsum3."
-          content="Lorem3 ipsum dolor sit amet, consectetur adipisicing elit. Iste, fuga."
+          title="Dive into a World of Flavor!"
+          content="Explore our culinary creations crafted with passion and expertise. From tantalizing appetizers to mouthwatering mains, we're here to delight your taste buds"
           classCarousel="mycarousel3"
         />
       </div>

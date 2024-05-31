@@ -11,9 +11,7 @@ const BestProduct = () => {
           <h3 className="text-info">$253</h3>
           <h3>Dobumi (Dongkal Bumi Mini)</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit
-            molestiae suscipit inventore voluptatibus atque molestias velit
-            voluptates rem, voluptatum alias?
+          Dongkal Bunga Mini adalah variasi produk yang menarik. Bunga mini (misalnya bunga kenanga) ditambahkan pada adonan untuk memberikan aroma yang khas.Teksturnya kenyal dan memiliki rasa yang unik.
           </p>
           <button className="btn btn-info rounded-4 text-light">
             Order Now

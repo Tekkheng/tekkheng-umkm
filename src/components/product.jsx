@@ -18,26 +18,22 @@ const Product = () => {
         <CardProduct
           img={Dolar}
           title="Dolila (Dongkal Lidah Lama)"
-          content="Some quick example text to build on the card title and make up the
-              bulk of the card;s content."
+          content="Makanan tradisional Indonesia yang terbuat dari campuran tepung beras, gula, dan santan, kemudian dikukus. Biasanya memiliki tekstur kenyal dan manis, sering kali dihias dengan irisan kelapa atau wijen yang lezat."
         />
         <CardProduct
           img={Dolila}
           title="Dolar (Dongkal Gula Merah)"
-          content="Some quick example text to build on the card title and make up the
-          bulk of the card;s content."
+          content="Sejenis kue tradisional dari Indonesia yang terbuat dari gula merah atau palm sugar, tepung beras, dan santan. Kue ini memiliki cita rasa manis yang khas dari gula merah dan biasanya dihidangkan sebagai camilan atau makanan penutup."
         />
         <CardProduct
           img={Dobumi}
           title="Dobumi (Dongkal Bunga Mini)"
-          content="Some quick example text to build on the card title and make up the
-          bulk of the card;s content."
+          content="Dongkal Bunga Mini adalah variasi produk yang menarik. Bunga mini (misalnya bunga kenanga) ditambahkan pada adonan untuk memberikan aroma yang khas.Teksturnya kenyal dan memiliki rasa yang unik."
         />
         <CardProduct
           img={Domochi}
           title="Domochi (Dongkal Mochi)"
-          content="Some quick example text to build on the card title and make up the
-          bulk of the card;s content."
+          content="Makanan tradisional Jepang yang terbuat dari tepung ketan yang difermentasi, kemudian diisi dengan berbagai jenis isi seperti kacang merah, kacang hijau, atau pasta manis lainnya. Mochi memiliki tekstur kenyal dan biasanya dihidangkan sebagai camilan atau makanan penutup."
         />
       </div>
     </section>

@@ -5,15 +5,15 @@ const Gallery = () => {
     <section className="container" id="gallery">
       <br />
       <h2 className="mt-5 mb-5 fw-bold">
-        Lorem ipsum dolor sit amet <br />
-        consectetur adipisicing elit.
+        Meet Our Team <br />
+        Passionate Food Enthusiasts
         <br />
-        cFacilis, ex.
+        and Culinary Artists
       </h2>
       <div className="mycard">
         <GalleryChild name="Tek Kheng" role="Frontend" img={ProfileImage}/>
-        <GalleryChild name="Akheng" role="DESIGNATION" img={ProfileImage}/>
-        <GalleryChild name="Tek" role="Backend" img={ProfileImage}/>
+        <GalleryChild name="Tek Kheng" role="DESIGNATION" img={ProfileImage}/>
+        <GalleryChild name="Tek Kheng" role="Backend" img={ProfileImage}/>
       </div>
     </section>
   );

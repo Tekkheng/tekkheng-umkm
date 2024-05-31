@@ -1,14 +1,14 @@
-body{
+body {
   background-color: #f3f6ffce;
 }
 /* nav.mynav{
   background-color: #F195B2;
 } */
 
-h1.intro{
+h1.intro {
   font-size: 60px;
 }
-div.mycarousel{
+div.mycarousel {
   background-image: linear-gradient(
       to bottom,
       rgba(0, 0, 0, 0.6) 0%,
@@ -28,7 +28,7 @@ div.mycarousel{
   color: white;
   flex-wrap: wrap;
 }
-div.mycarousel2{
+div.mycarousel2 {
   background-image: linear-gradient(
       to bottom,
       rgba(0, 0, 0, 0.6) 0%,
@@ -48,7 +48,7 @@ div.mycarousel2{
   color: white;
   flex-wrap: wrap;
 }
-div.mycarousel3{
+div.mycarousel3 {
   background-image: linear-gradient(
       to bottom,
       rgba(0, 0, 0, 0.6) 0%,
@@ -69,27 +69,27 @@ div.mycarousel3{
   flex-wrap: wrap;
 }
 
-a.nav-link:hover{
-  color: #FFC107;
+a.nav-link:hover {
+  color: #ffc107;
 }
 
-a.nav-link.active:hover{
-  text-decoration: underline;   
+a.nav-link.active:hover {
+  text-decoration: underline;
 }
 
-span.navbar-text{
+span.navbar-text {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
 }
-h1.first{
-  color:rgb(91, 126, 231);
+h1.first {
+  color: rgb(91, 126, 231);
   padding-right: 5px;
 }
-h1.last{
-  color: #FFC107;
+h1.last {
+  color: #ffc107;
 }
-i:hover{
+i:hover {
   color: rgb(71, 69, 69);
   transition: 0.5s;
   -webkit-transition: 0.5s;
@@ -102,50 +102,51 @@ i:hover{
 } */
 
 @media screen and (min-width: 922px) {
-  div.navbar_satu{
-      display: flex; 
-      justify-content: space-between
+  div.navbar_satu {
+    display: flex;
+    justify-content: space-between;
   }
-  div.navbar_dua{
-      width: 80%;
-      border-radius: 100px;
-      position: absolute; z-index: 1;
-      margin-top: 50px;
+  div.navbar_dua {
+    width: 80%;
+    border-radius: 100px;
+    position: absolute;
+    z-index: 1;
+    margin-top: 50px;
   }
-  body{
-      background-color: red;
+  body {
+    background-color: red;
   }
 }
 @media screen and (max-width: 576px) {
-  div.navbar_dua{
-      width: 100%;
-      border-radius: 50px;
-      position: relative;
-      z-index: 1;
-      padding: 100px;
-      margin: 50px auto;
-      -webkit-border-radius: 50px;
-      -moz-border-radius: 50px;
-      -ms-border-radius: 50px;
-      -o-border-radius: 50px;
-}
-  body{
-      background-color: red;
+  div.navbar_dua {
+    width: 100%;
+    border-radius: 50px;
+    position: relative;
+    z-index: 1;
+    padding: 100px;
+    margin: 50px auto;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+  }
+  body {
+    background-color: red;
   }
 }
 
 @media screen and (max-width: 992px) {
-  div.navbar_dua{
-      width: 100%;
-      border-radius: 50px;
-      position: relative;
-      z-index: 1;
-      padding: 100px;
-      margin: 50px auto;
-      -webkit-border-radius: 50px;
-      -moz-border-radius: 50px;
-      -ms-border-radius: 50px;
-      -o-border-radius: 50px;
+  div.navbar_dua {
+    width: 100%;
+    border-radius: 50px;
+    position: relative;
+    z-index: 1;
+    padding: 100px;
+    margin: 50px auto;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
   }
 }
 @media screen and (max-width: 576px) {
@@ -154,7 +155,7 @@ i:hover{
   }
 }
 
-div.mycard{
+div.mycard {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -162,7 +163,7 @@ div.mycard{
   align-items: center;
 }
 
-div.card{
+div.card {
   width: 18rem;
   justify-content: center;
   align-items: center;
@@ -170,7 +171,7 @@ div.card{
   padding: 10px;
 }
 
-a.btn_order:hover{
+a.btn_order:hover {
   background-color: rgb(98, 175, 226);
   border: 1px solid rgb(98, 175, 226);
   transition: 0.5s;
@@ -180,21 +181,21 @@ a.btn_order:hover{
   -o-transition: 0.5s;
 }
 
-img.myproduct{
+img.myproduct {
   width: 12rem;
-  border: 15px solid #FFC107;
+  border: 15px solid #ffc107;
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
 }
-a.gallery{
-  border: 1px solid #FFC107;
-  color: #FFC107;
+a.gallery {
+  border: 1px solid #ffc107;
+  color: #ffc107;
   margin-left: 8px;
 }
-a.gallery:hover{
+a.gallery:hover {
   color: rgb(98, 175, 226);
   border: 1px solid rgb(98, 175, 226);
   background-color: transparent;
@@ -205,9 +206,9 @@ a.gallery:hover{
   -o-transition: 0.5s;
 }
 
-img.mygallery{
+img.mygallery {
   width: 12rem;
-  border: 5px solid #FFC107;
+  border: 5px solid #ffc107;
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -217,13 +218,13 @@ img.mygallery{
   margin-bottom: 350px;
 }
 
-div.card_gallery{
+div.card_gallery {
   padding-top: 100px;
   padding-bottom: 30px;
-  margin-top:100px;
+  margin-top: 100px;
 }
 
-div.body-caption{
+div.body-caption {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -231,16 +232,16 @@ div.body-caption{
   align-items: center;
 }
 
-@media screen and (max-width : 812px){
-  div.body-caption{
-      display: flex;
-      flex-direction: row;
-      justify-content: space-around;
-      width: 100%;
-      align-items: center;
+@media screen and (max-width: 812px) {
+  div.body-caption {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
   }
-  div.caption{
-      font-size: 10px;
-      padding: 4px;
+  div.caption {
+    font-size: 10px;
+    padding: 4px;
   }
 }

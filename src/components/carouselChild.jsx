@@ -5,8 +5,8 @@ const CarouselChild = (props) => {
     return (
         <div className="carousel-item active">
       <div className={props.classCarousel}>
-        <h4>{props.title}</h4>
-        <h5>{props.content}</h5>
+        <h3>{props.title}</h3>
+        <h6 className="text-wrap w-50 mt-4">{props.content}</h6>
         <button className="btn btn-warning mt-5">Learn More</button>
       </div>
     </div>
