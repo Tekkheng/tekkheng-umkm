@@ -11,16 +11,16 @@ const Footer = () => {
         <span className="text-warning">Kal</span>
       </h1>
       <div className="">
-        <a className="btn gallery" href="https://twitter.com" target="_blank">
-          <i className="fa-brands fa-twitter"></i>
+        <a className="btn gallery" href="https://github.com/Tekkheng?tab=repositories" target="_blank">
+          <i className="fa-brands fa-github"></i>
         </a>
-        <a className="btn gallery" href="https://facebook.com" target="_blank">
-          <i className="fa-brands fa-facebook"></i>
+        <a className="btn gallery" href="https://www.youtube.com/channel/UC6567sl_0-a2_fhGPloih5w" target="_blank">
+          <i className="fa-brands fa-youtube"></i>
         </a>
-        <a className="btn gallery" href="https://linkedin.com" target="_blank">
+        <a className="btn gallery" href="https://www.linkedin.com/in/tek-kheng-58211723b/" target="_blank">
           <i className="fa-brands fa-linkedin-in"></i>
         </a>
-        <a className="btn gallery" href="https://instagram.com" target="_blank">
+        <a className="btn gallery" href="https://www.instagram.com/akheng_je/?hl=en" target="_blank">
           <i className="fa-brands fa-instagram"></i>
         </a>
       </div>

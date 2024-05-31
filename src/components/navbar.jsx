@@ -44,25 +44,16 @@ const Navbar = () => {
               <a
                 className="nav-link active"
                 aria-current="page"
-                href="https://facebook.com"
+                href="https://github.com/Tekkheng?tab=repositories"
                 target="_blank"
               >
-                <i className="fa fa-facebook" aria-hidden="true"></i>
+                <i className="fa fa-github" aria-hidden="true"></i>
               </a>
             </li>
             <li className="nav-item">
               <a
                 className="nav-link active"
-                href="https://twitter.com"
-                target="_blank"
-              >
-                <i className="fa-brands fa-twitter"></i>
-              </a>
-            </li>
-            <li className="nav-item">
-              <a
-                className="nav-link active"
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/tek-kheng-58211723b/"
                 target="_blank"
               >
                 <i className="fa-brands fa-linkedin-in"></i>
@@ -71,7 +62,7 @@ const Navbar = () => {
             <li className="nav-item">
               <a
                 className="nav-link active"
-                href="https://instagram.com"
+                href="https://www.instagram.com/akheng_je/?hl=en"
                 target="_blank"
               >
                 <i className="fa-brands fa-instagram"></i>
@@ -80,7 +71,7 @@ const Navbar = () => {
             <li className="nav-item">
               <a
                 className="nav-link active"
-                href="https://youtube.com"
+                href="https://www.youtube.com/channel/UC6567sl_0-a2_fhGPloih5w"
                 target="_blank"
               >
                 <i className="fa-brands fa-youtube"></i>

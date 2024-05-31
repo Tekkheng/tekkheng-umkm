@@ -12,13 +12,13 @@ const GalleryChild = (props) => {
       <div className="card-body">
         <h5 className="card-title">{props.name}</h5>
         <p className="card-text">{props.role}</p>
-        <a className="btn gallery" href="https://twitter.com" target="_blank">
-          <i className="fa-brands fa-twitter"></i>
+        <a className="btn gallery" href="https://github.com/Tekkheng?tab=repositories" target="_blank">
+          <i className="fa-brands fa-github"></i>
         </a>
-        <a className="btn gallery" href="https://facebook.com" target="_blank">
-          <i className="fa-brands fa-facebook"></i>
+        <a className="btn gallery" href="https://www.instagram.com/akheng_je/?hl=en" target="_blank">
+          <i className="fa-brands fa-instagram"></i>
         </a>
-        <a className="btn gallery" href="https://linkedin.com" target="_blank">
+        <a className="btn gallery" href="https://www.linkedin.com/in/tek-kheng-58211723b/" target="_blank">
           <i className="fa-brands fa-linkedin-in"></i>
         </a>
       </div>
